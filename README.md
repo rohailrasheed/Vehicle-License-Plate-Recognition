@@ -1,1 +1,1 @@
-# Vehicle-License-Plate-recognition
+# Robust and Efficient means of Automated License Plate recognition Mechanism
