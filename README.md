@@ -1,4 +1,4 @@
-# Vehicle-Plate-Recognition
+# Robust and efficient means of Automated License Plate Recognition (ALPR) Mechanism
 
 ![](/background.png)
 
